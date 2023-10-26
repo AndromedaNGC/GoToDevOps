@@ -14,10 +14,10 @@ Steps for become to DevOps
 ###### 6. Контейнеризация и оркестрация
 * Docker/k8s
 ###### 7. Концепция IaC (Infrastructure as code)
-* Ansible - 12
-* Terraform - 6
+* Ansible
+* Terraform
 ###### 8. Чарты и темплейты Kubernetes
-* Helm - 8
+* Helm
 ###### 9. Виртуализация
 * Proxmox
 ###### 10. Сетевые технологии
